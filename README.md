@@ -5,8 +5,9 @@ Tech Stack
 Frontend	  Backend	  Styling	  Deployment
 Next.js 15 (React/TS)	Supabase	Tailwind v4	Vercel
 
-Features Planned
-User auth & profiles
-Post tweets + likes/reposts
-Real-time updates
-Responsive design
+Features Planned:
+
+User auth & profiles, 
+Post tweets + likes/reposts, 
+Real-time updates, 
+Responsive design.
