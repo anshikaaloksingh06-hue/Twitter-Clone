@@ -11,4 +11,3 @@ User auth & profiles,
 Post tweets + likes/reposts, 
 Real-time updates, 
 Responsive design.
->>>>>>> 23bde7a8d2c405e6539b4e5a4c319233f84d5604
